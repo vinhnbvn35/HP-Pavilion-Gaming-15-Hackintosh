@@ -1,7 +1,6 @@
 # HP Pavillion Gaming Laptop 15-cx0179TX Hackintosh OpenCore EFI
 Tested on 15-cx0179TX  
 Confirmed working on macOS Catalina,Big Sur
-I use Opencore for Bootloader
 ### MY SPECIFICATIONS:
 - [x] Model: HP Pavillion Gaming Laptop 15 (cx0179TX)
 - [x] CPU: Intel Core i5-8300H
