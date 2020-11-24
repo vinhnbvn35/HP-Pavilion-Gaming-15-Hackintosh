@@ -5,6 +5,7 @@ Confirmed working on macOS Catalina,Big Sur
 - [x] Model: HP Pavillion Gaming Laptop 15 (cx0179TX)
 - [x] CPU: Intel Core i5-8300H
 - [x] Intel Graphic: UHD630
+- [ ] GeForce GTX 1050 (4 GB)
 - [x] Memory: SK hynix HMA81GS6CJR8N-VK 8GB DDR4-2666
 - [x] Display: FHD Raster Display
 - [x] HDD: HGST HTS721010A9E630
@@ -12,22 +13,29 @@ Confirmed working on macOS Catalina,Big Sur
 - [x] Audio: Realtek ALC295
 - [x] WLAN + Bluetooth : Intel ALC9560
 - [ ] Alcorlink PCIE Card Reader
-- [ ] GeForce GTX 1050 (4 GB)
-### Confirmed Working
+### Confirmed Hardware Working
 - Intel UHD 630 Graphics Card
-- Touchpad multitouch
+- Touchpad
 - Realtek ALC295 Speakers
 - Webcam Camera
-- Wifi (use itlwm + heliport)
+- Wifi Intel AC9560 (use itlwm + heliport) #thanks zxystd
 - Bluetooth
 - Headphone Jack
 - LAN
-- Adjust brightness in settings
+- Brightness display
 - USB
 - Battery Status Indicator
 - Android USB Tethering
 - Sleeping
+### Confirmed Software Working
+- Imessage,Facetime
+- AppleID,Icloud
+- Full QE/CI with UHD Graphic 630
+- Adjust brightness in settings
+- Adjust volume with keyboard
+- Touchpad multitouch
 ### Known Issues
 - Nvidia card won't work. (macOS doesn't support Nvidia cards) (Disabled with ACPI)
 - HDMI not working (because HDMI is connected to the graphic card)
 - SD Card Reader
+- Airdrop ( Intel wifi not support fuction on MACOS)
