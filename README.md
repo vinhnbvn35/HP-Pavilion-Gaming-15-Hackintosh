@@ -7,18 +7,18 @@ Confirmed working on macOS Catalina,Big Sur
 - [x] Intel Graphic: UHD630
 - [x] Memory: SK hynix HMA81GS6CJR8N-VK 8GB DDR4-2666
 - [x] Display: FHD Raster Display
-- [x] SSD: SSD M2 SATA SamSung PM871b
+- [x] HDD: HGST HTS721010A9E630
 - [x] Trackpad: ELAN SMBUS
 - [x] Audio: Realtek ALC295
 - [x] WLAN + Bluetooth : Intel ALC9560
-- [x] Alcorlink PCIE Card Reader
-- [x] GeForce GTX 1050 (4 GB)
+- [ ] Alcorlink PCIE Card Reader
+- [ ] GeForce GTX 1050 (4 GB)
 ### Confirmed Working
 - Intel UHD 630 Graphics Card
-- Elan Touchpad
+- Touchpad multitouch
 - Realtek ALC295 Speakers
-- Web Camera
-- Wifi
+- Webcam Camera
+- Wifi (use itlwm + heliport)
 - Bluetooth
 - Headphone Jack
 - LAN
@@ -28,5 +28,6 @@ Confirmed working on macOS Catalina,Big Sur
 - Android USB Tethering
 - Sleeping
 ### Known Issues
-- Nvidia card won't work. (macOS doesn't support Nvidia cards)
+- Nvidia card won't work. (macOS doesn't support Nvidia cards) (Disabled with ACPI)
 - HDMI not working (because HDMI is connected to the graphic card)
+- SD Card Reader
