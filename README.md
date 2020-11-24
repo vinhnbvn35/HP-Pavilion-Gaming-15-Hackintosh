@@ -1,5 +1,4 @@
 # HP Pavillion Gaming Laptop 15-cx0179TX Hackintosh OpenCore EFI
-[中文](https://github.com/mechtifs/hackintosh-hp-15-cx0/blob/master/README_zh.md)  
 Tested on 15-cx0179TX  
 Confirmed working on macOS Catalina,Big Sur
 ### Confirmed Working
