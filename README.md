@@ -11,6 +11,7 @@ Confirmed working on macOS Catalina,Big Sur
 - [x] HDD: HGST HTS721010A9E630
 - [x] Trackpad: ELAN SMBUS
 - [x] Audio: Realtek ALC295
+- [x] LAN: Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter (PHY: Realtek RTL8111)
 - [x] WLAN + Bluetooth : Intel ALC9560
 - [ ] Alcorlink PCIE Card Reader
 ### Confirmed Hardware Working
